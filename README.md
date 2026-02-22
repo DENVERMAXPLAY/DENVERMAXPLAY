@@ -11,7 +11,7 @@
 │                                                                  │
 │   [SYS] >> ESTABLISHING SECURE CONNECTION...          [OK]       │
 │   [SYS] >> IDENTITY : NIKIEMA N.B. Lionel             [OK]       │
-│   [SYS] >> LOCATION : Morocco 🇲🇦                     [OK]        │
+│   [SYS] >> LOCATION : Morocco 🇲🇦                     [OK]       │
 │   [SYS] >> MISSION  : Cybersecurity / Ethical Hacking [OK]       │
 │   [SYS] >> STATUS   : Learning. Building. Breaking.   [OK]       │
 │                                                                  │
@@ -81,11 +81,11 @@ class DENVERMAXPLAY:
 
 <div align="center">
 
-![DENVERMAXPLAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=DENVERMAXPLAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00b4ff&icon_color=00b4ff&text_color=8ab4f8)
+![DENVERMAXPLAY's GitHub stats](https://github-readme-stats.vercel.app/api?username=DENVERMAXPLAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00b4ff&icon_color=00b4ff&text_color=8ab4f8&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DENVERMAXPLAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00b4ff&text_color=8ab4f8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DENVERMAXPLAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a2e&title_color=00b4ff&text_color=8ab4f8&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DENVERMAXPLAY&theme=tokyonight&hide_border=true&background=0a0a2e&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DENVERMAXPLAY&theme=tokyonight&hide_border=true&background=0a0a2e&ring=00b4ff&fire=00b4ff&currStreakLabel=00b4ff)
 
 </div>
 
