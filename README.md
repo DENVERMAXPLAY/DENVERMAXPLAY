@@ -1,19 +1,22 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:000000&height=200&section=header&text=DENVERMAXPLAY&fontSize=50&fontColor=00b4ff&fontAlignY=38&desc=NIKIEMA%20N.B.%20Lionel&descAlignY=58&descColor=8ab4f8&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050520,70:0a0a2e,100:000000&height=220&section=header&text=DENVERMAXPLAY&fontSize=55&fontColor=00b4ff&fontAlignY=40&desc=NIKIEMA%20N.B.%20Lionel%20%7C%20CS%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descColor=8ab4f8&animation=twinkling)
 
 </div>
 
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  [SYS] >> CONNECTING TO SECURE NODE...                      │
-│  [SYS] >> USER: NIKIEMA N.B. Lionel                         │
-│  [SYS] >> ROLE: CS Student | Cybersecurity Enthusiast       │
-│  [SYS] >> NODE: Morocco                                     │
-│  [SYS] >> ACCESS GRANTED                                    │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   [SYS] >> ESTABLISHING SECURE CONNECTION...          [OK]       │
+│   [SYS] >> IDENTITY : NIKIEMA N.B. Lionel             [OK]       │
+│   [SYS] >> LOCATION : Morocco 🇲🇦                     [OK]        │
+│   [SYS] >> MISSION  : Cybersecurity / Ethical Hacking [OK]       │
+│   [SYS] >> STATUS   : Learning. Building. Breaking.   [OK]       │
+│                                                                  │
+│                  >> ACCESS GRANTED ✔                             │
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -24,12 +27,14 @@
 
 ```python
 class DENVERMAXPLAY:
-    name     = "NIKIEMA N.B. Lionel"
-    role     = "Computer Science Student"
-    goal     = "Cybersecurity / Ethical Hacking"
-    location = "Morocco 🇲🇦"
-    learning = ["Penetration Testing", "Network Security", "CTF Challenges"]
-    motto    = "Build solid projects. Break things ethically. Never stop learning."
+    name        = "NIKIEMA N.B. Lionel"
+    role        = "Computer Science Student"
+    goal        = "Cybersecurity / Ethical Hacking"
+    location    = "Morocco 🇲🇦"
+    learning    = ["Penetration Testing", "Network Security", "CTF Challenges"]
+    languages   = ["Python", "C", "C++", "Bash", "PowerShell"]
+    os          = "Linux 🐧"
+    motto       = "Build solid projects. Break things ethically. Never stop learning."
 ```
 
 ---
@@ -56,7 +61,7 @@ class DENVERMAXPLAY:
 <div align="center">
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00b4ff)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00b4ff)](https://tryhackme.com/p/DenverTrex)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=00b4ff)
 
 </div>
@@ -97,11 +102,12 @@ class DENVERMAXPLAY:
 
 ---
 
-## ◈ Connect
+## ◈ Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikiema-nomwende-bienvenu-lionel-2a65b625a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00b4ff)](https://tryhackme.com/p/DenverTrex)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4ff)](https://github.com/DENVERMAXPLAY)
 
 </div>
@@ -110,7 +116,7 @@ class DENVERMAXPLAY:
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a2e,100:000000&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050520,70:0a0a2e,100:000000&height=120&section=footer)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DENVERMAXPLAY&color=00b4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
