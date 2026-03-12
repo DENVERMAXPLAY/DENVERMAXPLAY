@@ -1,38 +1,45 @@
-<div align="center">
+# Hi, I'm Lionel 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050520,70:0a0a2e,100:000000&height=220&section=header&text=DENVERMAXPLAY&fontSize=55&fontColor=00b4ff&fontAlignY=40&desc=NIKIEMA%20N.B.%20Lionel%20%7C%20CS%20Student%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descColor=8ab4f8&animation=twinkling)
-
-</div>
-
-## ◈ Projects
-
-| # | Projet | Description | Stack |
-|---|--------|-------------|-------|
-| 01 | [🔑 Password Generator](https://github.com/DENVERMAXPLAY/Generateur-al-atoire-de-password-mot-de-passe-) | Générateur de mots de passe sécurisés | Python |
-| 02 | [🎮 Jeu du Pendu](https://github.com/DENVERMAXPLAY/Game-le-pendu) | Jeu classique du pendu en terminal | Python |
-| 03 | [🐧 Gestion Étudiants Bash](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-en-bash) | Script de gestion d'étudiants | Bash |
-| 04 | [💻 Gestion Étudiants PS](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) | Script de gestion d'étudiants | PowerShell |
+> Computer Science Student | Cybersecurity Enthusiast | Based in Casablanca, Morocco 🇲🇦
 
 ---
 
-## ◈ Connect With Me
+## About Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikiema-nomwende-bienvenu-lionel-2a65b625a/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00b4ff)](https://tryhackme.com/p/DenverTrex)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00b4ff)](https://github.com/DENVERMAXPLAY)
-
-</div>
+I'm a CS student passionate about cybersecurity, scripting and building tools that solve real problems.
+Currently exploring penetration testing and looking for collaboration opportunities.
 
 ---
 
-<div align="center">
+## Skills
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:050520,70:0a0a2e,100:000000&height=120&section=footer)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DENVERMAXPLAY&color=00b4ff&style=for-the-badge&label=PROFILE+VIEWS)
+---
 
-*"In a world of 0s and 1s, be the one who controls both."*
+## Projects
 
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [🔍 Vulnerability Scanner](https://github.com/DENVERMAXPLAY/Vulnerability-Scanner) | Automated network vulnerability scanner using nmap and searchsploit | Bash |
+| [🔑 Password Generator](https://github.com/DENVERMAXPLAY/Generateur-aleatoire-de-password-mot-de-passe-) | Secure password generator with input validation | Python |
+| [🎮 Hangman Game](https://github.com/DENVERMAXPLAY/Game-le-pendu) | Classic hangman game with ASCII art | Python |
+| [🐧 Student Management - Bash](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-en-bash) | Student records management system | Bash |
+| [💻 Student Management - PS](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) | Student records management system | PowerShell |
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikiema-nomwende-bienvenu-lionel-2a65b625a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/DenverTrex)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DENVERMAXPLAY)
+
+---
+
+*Open to collaboration — feel free to reach out !*
