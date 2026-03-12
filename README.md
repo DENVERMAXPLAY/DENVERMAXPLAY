@@ -14,6 +14,7 @@ Currently exploring penetration testing and looking for collaboration opportunit
 ## Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -28,6 +29,7 @@ Currently exploring penetration testing and looking for collaboration opportunit
 |---------|-------------|-------|
 | [🔍 Vulnerability Scanner](https://github.com/DENVERMAXPLAY/Vulnerability-Scanner) | Automated network vulnerability scanner using nmap and searchsploit | Bash |
 | [🔑 Password Generator](https://github.com/DENVERMAXPLAY/Generateur-aleatoire-de-password-mot-de-passe-) | Secure password generator with input validation | Python |
+| [🎮 KONANE Game](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) |Hawaiian strategy game fully implemented | C |
 | [🎮 Hangman Game](https://github.com/DENVERMAXPLAY/Game-le-pendu) | Classic hangman game with ASCII art | Python |
 | [🐧 Student Management - Bash](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-en-bash) | Student records management system | Bash |
 | [💻 Student Management - PS](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) | Student records management system | PowerShell |
