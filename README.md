@@ -29,7 +29,7 @@ Currently exploring penetration testing and looking for collaboration opportunit
 |---------|-------------|-------|
 | [🔍 Vulnerability Scanner](https://github.com/DENVERMAXPLAY/Vulnerability-Scanner) | Automated network vulnerability scanner using nmap and searchsploit | Bash |
 | [🔑 Password Generator](https://github.com/DENVERMAXPLAY/Generateur-aleatoire-de-password-mot-de-passe-) | Secure password generator with input validation | Python |
-| [🎮 KONANE Game](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) |Hawaiian strategy game fully implemented | C |
+| [🎮 KONANE Game](https://github.com/DENVERMAXPLAY/Jeu-du-KONANE) |Hawaiian strategy game fully implemented | C |
 | [🎮 Hangman Game](https://github.com/DENVERMAXPLAY/Game-le-pendu) | Classic hangman game with ASCII art | Python |
 | [🐧 Student Management - Bash](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-en-bash) | Student records management system | Bash |
 | [💻 Student Management - PS](https://github.com/DENVERMAXPLAY/Script-de-gestion-des-informations-sur-etudians-avec-powershell) | Student records management system | PowerShell |
